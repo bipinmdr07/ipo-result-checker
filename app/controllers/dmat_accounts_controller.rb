@@ -1,0 +1,2 @@
+class DmatAccountsController < ApplicationController
+end
